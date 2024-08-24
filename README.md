@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sorbojit Mondal</h1>
+<h1 align="center">Hola!👋, myself Sorbojit Mondal</h1>
 <h3 align="center">Web Developer( React js) | Python programmer | Prompt Engineering | AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33sorbojitmondal&label=Profile%20views&color=0e75b6&style=flat" alt="33sorbojitmondal" /> </p>
