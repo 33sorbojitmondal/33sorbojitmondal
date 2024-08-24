@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **reactjs,ML,AI,Django**
+- 💬 Ask me about **reactjs,AIML(NLP,CV),Django**
 
-- 📫 How to reach me **33sorbojitmondal@gmail.com**
-
-- ⚡ Fun fact **Pursing BTech CSE with a passion in global trends**
+- 📫 Email **33sorbojitmondal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
