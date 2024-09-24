@@ -1,5 +1,5 @@
 <h1 align="center">Hola!👋, myself Sorbojit Mondal</h1>
-<h3 align="center">Full Stack | C,C#,Java,Python | Prompt Engineering | AIML(NLP,CV)</h3>
+<h3 align="center">Full Stack | C,C#,Java,Python,Flutter | Prompt Engineering | AIML(NLP,CV)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33sorbojitmondal&label=Profile%20views&color=0e75b6&style=flat" alt="33sorbojitmondal" /> </p>
 
